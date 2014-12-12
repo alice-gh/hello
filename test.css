@@ -1,2 +1,5 @@
 &[dat-s='ph'] .ev-prod[data-prodType='ph'],
-&[dat-s='di'] .ev-prod[data-prodType='ph']
+&[dat-s='di'] .ev-prod[data-prodType='ph'] {
+  display: block;
+  border: 1px solid black;
+}
